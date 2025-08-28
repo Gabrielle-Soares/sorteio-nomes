@@ -30,6 +30,5 @@ challenge-amigo-secreto/
 - JavaScript (vanilla)
 ## Autor
 Gabrielle Soares
-## Autor
 
 - Seu Nome Aqui
