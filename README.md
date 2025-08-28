@@ -31,4 +31,3 @@ challenge-amigo-secreto/
 ## Autor
 Gabrielle Soares
 
-- Seu Nome Aqui
